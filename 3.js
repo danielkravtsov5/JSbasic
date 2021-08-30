@@ -7,4 +7,4 @@ if (num<0) {
     absolute = num;
 }
 
-console.log(absolute)
+console.log(absolute);

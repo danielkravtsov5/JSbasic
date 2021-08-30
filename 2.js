@@ -4,4 +4,4 @@ let solutionA = solutionB = 0
 solutionA = ((-b)+(Math.sqrt((b*b)-(4*a*c))))/(2*a) ;
 solutionB = ((-b)-(Math.sqrt((b*b)-(4*a*c))))/(2*a) ;
 
-console.log(solutionA, solutionB)
+console.log(solutionA, solutionB);
